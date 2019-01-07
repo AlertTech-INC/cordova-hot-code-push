@@ -32,10 +32,10 @@ cordova plugin add cordova-hot-code-push-plugin
 
 It is also possible to install via repo url directly (__unstable__)
 ```sh
-cordova plugin add https://github.com/nordnet/cordova-hot-code-push.git
+cordova plugin add https://github.com/AlertTech-INC/cordova-hot-code-push.git
 ```
 
-At the end of the installation plugin will recommend you to install [Cordova Hot Code Push CLI client](https://github.com/nordnet/cordova-hot-code-push-cli). This client will help you to:
+At the end of the installation plugin will recommend you to install [Cordova Hot Code Push CLI client](https://github.com/AlertTech-INC/cordova-hot-code-push-cli). This client will help you to:
 - easily generate necessary configuration files;
 - launch local server to listen for any changes in the web project and deploy new version immediately on the app.
 
